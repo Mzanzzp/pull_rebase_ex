@@ -4,4 +4,8 @@
 
 ## Edytuje plik README.md - na github
 
-#Edytowałem
+### Edytowałem
+### git add README.md
+### git commit -m ""
+### git push origin main
+### git status
