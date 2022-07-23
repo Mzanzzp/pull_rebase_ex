@@ -2,4 +2,8 @@ tt
 
 druga linia zdalnie
 
+git pull origin main --rebase
+
 trzecialinia lokalnie
+
+git rebase --continue
