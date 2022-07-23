@@ -7,3 +7,5 @@ git pull origin main --rebase
 trzecialinia lokalnie
 
 git rebase --continue
+
+git pull origin main
